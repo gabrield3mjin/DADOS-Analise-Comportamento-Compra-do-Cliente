@@ -8,8 +8,7 @@ O objetivo principal é identificar tendências, melhorar o engajamento do clien
 ## 📊 Visualização do Dashboard
 Abaixo está a representação visual dos KPIs e métricas de comportamento:
 
-![Dashboard de Comportamento do Cliente](<img width="1451" height="791" alt="image" src="https://github.com/user-attachments/assets/63a0d48c-738e-4dc5-b716-57c36d4651f8" />)
-*(Dica: Faça o upload da imagem para o GitHub e substitua o link acima)*
+<img width="1451" height="791" alt="image" src="https://github.com/user-attachments/assets/63a0d48c-738e-4dc5-b716-57c36d4651f8" />
 
 ## 🛠️ Tecnologias e Processos
 
