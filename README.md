@@ -27,7 +27,3 @@ Os dados foram integrados ao PostgreSQL para responder a perguntas estratégicas
 * **Status de Assinatura:** 27% dos clientes são assinantes.
 * **Avaliação Média:** A nota média de satisfação geral é de 3,75.
 * **Categorias Principais:** Vestuário (Clothing) é a categoria com maior volume de vendas.
-
-## 💡 Recomendações de Negócio
-* **Fidelização:** Criar recompensas para migrar clientes "Recorrentes" para o nível "Fiel".
-* **Marketing Direcionado:** Focar esforços no grupo "Jovem Adulto", que representa a maior contribuição de receita (\$62.1
